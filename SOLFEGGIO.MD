@@ -1,15 +1,3 @@
-# Solfege Lessons Scrape
-
-Despite the current conflict, we must recognize Russian Musicians are one of its kind. Music Teachers are no exception.
-
-I'm constantly looking for resources to teach music and I found this wonderful [channel](https://zen.yandex.ru/id/606f022da676675c7a4e6a2b?lang=en) on [Yandex.ru](https://yandex.ru/).
-
-There you can find Solfege lessons recorded with decent quality.
-
-Here is a curated list I was able to extract with Ruby script: ```solfeggio_lessons_scraped.rb```.
-
-Enjoy! 
-
 [We sing in D minor. Solfeggio grade 2 No.167/Поем в Ре миноре. Сольфеджио 2 класс №167 (Video)](https://zen.yandex.ru/video/watch/606f02d6a676675c7a4e6b1f?rid=3780830089.334.1646848848587.81872&amp;)
 [Сольфеджио Б Калмыков, Г Фридкин. 2 класс №95 \ Solfeggio B Kalmykov, G Fridkin. Grade 2 No.95](https://zen.yandex.ru/video/watch/606f02b8a676675c7a4e6af5?rid=2038857713.94.1646848804194.72963&amp;)
 [Сольфеджио Б Калмыков, Г Фридкин 2 класс №100 \ Solfeggio B Kalmykov, G Fridkin  Grade 2 No.100](https://zen.yandex.ru/video/watch/606f02a3a676675c7a4e6ace?rid=728923473.97.1646848787607.33048&amp;)
