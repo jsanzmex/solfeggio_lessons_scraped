@@ -1,0 +1,4 @@
+file=File.read("joined.md")
+arr=file.split("\n")
+arr = arr.map{|line| "- "+line}
+File.open("listed.md","w"){|f| f.write(arr.join("\n"))}
